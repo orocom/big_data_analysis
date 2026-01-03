@@ -6,3 +6,5 @@ print(15//3)
 print(15%3)
 
 print(4**2)
+
+type(1)
